@@ -1,6 +1,7 @@
 # PWM-BRIGHTNESS-LEVEL
+
+## Aim
 Analyse the relationship between PWM duty cycle and LED brightness by gradually varying the brightness from 0% to 100% and then from 100% to 0%. Observe the resulting breathing effect. 
----
 
 ## Apparatus Required
 
