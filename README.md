@@ -56,4 +56,4 @@ Analyse the relationship between PWM duty cycle and LED brightness by gradually 
 ---
 ## Result
 
-The relationship between the **PWM duty cycle and LED brightness** was successfully analyzed. The LED brightness increased gradually from **0% to 100%** as the PWM duty cycle increased and decreased gradually from **100% to 0%** as the duty cycle decreased, producing a smooth **breathing effect**.
+The relationship between the **PWM duty cycle and LED brightness** was successfully analyzed. The LED brightness increased gradually from **0% to 100%** as the PWM duty cycle increased and decreased gradually from **100% to 0%** as the duty cycle decreased, producing a smooth **breathing effect**..
