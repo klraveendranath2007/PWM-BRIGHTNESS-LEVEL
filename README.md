@@ -36,6 +36,7 @@ Analyse the relationship between PWM duty cycle and LED brightness by gradually 
 ---
 ## OUTPUT
 
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/bc301a63-d93c-4ce9-ba5b-f071b09b139d" />
 
 
 
